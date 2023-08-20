@@ -6,9 +6,10 @@ This repository contains a project focused on Credit Card Fraud Detection using 
 Credit card fraud is a significant concern in the financial industry. The ability to accurately detect fraudulent transactions is crucial to prevent financial losses for both consumers and credit card companies. In this project, we aim to develop machine learning models capable of identifying fraudulent credit card transactions by analyzing various transaction features.
 
 # Algorithms Used
-We have employed the following machine learning algorithms for this project:
+We have employed the following machine-learning algorithms for this project:
 
-# Logistic Regression: Logistic Regression is a common classification algorithm that's often used for binary classification tasks. We've used it as one of the baseline models for fraud detection.
+# Logistic Regression: 
+Logistic Regression is a standard classification algorithm that's often used for binary classification tasks. We've used it as one of the baseline models for fraud detection.
 
 # Decision Tree:
 Decision Trees are a versatile algorithm used for both classification and regression tasks. In our project, we've utilized Decision Trees to capture complex relationships within the data.
